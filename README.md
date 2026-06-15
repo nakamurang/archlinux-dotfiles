@@ -1,4 +1,4 @@
-# archlinux-dotfiles
+# Archlinux Dotfiles
 
 Personal configuration files for Arch Linux, featuring setups for Zsh, Starship, and Fastfetch.
 
