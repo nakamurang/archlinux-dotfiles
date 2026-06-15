@@ -1,0 +1,13 @@
+# Ignorar historiales de la terminal que puedan contener contraseñas o tokens
+.zsh_history
+.bash_history
+
+# Ignorar archivos temporales o de caché de los editores
+*.swp
+*~
+.DS_Store
+.idea/
+.vscode/
+
+# Ignorar cachés específicas de fastfetch u otros programas
+.cache/
